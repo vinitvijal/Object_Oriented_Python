@@ -5,5 +5,8 @@ class Number():
         else:
             print(num ,"is Odd")
 maths = Number()
+
+
+
 a = int(input("Enter Your Number : "))
 maths.oddEven(a)
